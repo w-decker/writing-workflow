@@ -11,7 +11,11 @@ Everyone has a different method for writing papers, each being most conducive to
 5. [Zotero](#5)
 6. [Working with others](#6)
 
-## An overview <a name="1"</a>
+## An overview <a name="1"></a>
+
+<center>
+    <img src="workflow.png" alt="workflow" class="workflow"/>
+</center>
 
 ## What you need <a name="2"></a>
 
