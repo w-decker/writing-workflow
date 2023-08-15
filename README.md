@@ -17,5 +17,9 @@ Everyone has a different method for writing papers, each being most conducive to
     <img src="workflow.png" alt="workflow" class="workflow"/>
 </center>
 
+In my workflow, I use three tools: R Markdown, Overleaf and Zotero. Each of these requires additional dependencies to function properly, so I will detail _everything_ required to make this workflow run smoothly.
+
+Let's begin by installing [R](https://cran.r-project.org/mirrors.html) and [R Studio](https://rstudio-education.github.io/hopr/starting.html) and [Zotero](https://www.zotero.org/download/). Then create an [Overleaf](https://www.overleaf.com/) account. These are the three main programs used in the workflow.
+
 ## What you need <a name="2"></a>
 
